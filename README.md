@@ -33,7 +33,6 @@ CSE 2nd year
 - Good Evening
 
 ## Nested List
-# MANIKANTA
 1. Good morning
    1. tiffin
    2. Tea
