@@ -15,7 +15,8 @@ CSE 2nd year
 [google](https://www.google.co.in/)
 # PRABHAS
 ![image-Prabhas](https://www.filmibeat.com/wimg/desktop/2019/10/prabhas_23.jpg)
-![ima
+
+# Table
 |S.no|Roll|Name|Branch|
 |----|----|----|------|
 |1|20A91A0592|Manikanta|CSE-B|
