@@ -13,5 +13,9 @@ CSE 2nd year
 [AEC](https://www.aec.edu.in/)
 # Link in Readme file
 [google](https://www.google.co.in/)
-# Link in Readme file
-![image-Prabhas](https://static.india.com/imageTopics/3d40599e241ac05b841f89600d8c0575.jpg?impolicy=Medium_Widthonly&w=200)
+# PRABHAS
+![image-Prabhas](https://www.filmibeat.com/wimg/desktop/2019/10/prabhas_23.jpg)
+|S.no|Roll|Name|Branch|
+|----|----|----|------|
+|1|20A91A0592|Manikanta|CSE-B|
+|2|20A91A0571|Abhishek|CSE-B|
