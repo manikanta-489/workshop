@@ -21,7 +21,7 @@ CSE 2nd year
 |1|20A91A0592|Manikanta|CSE-B|
 |2|20A91A0571|Abhishek|CSE-B|
 
-#list
+# list
 ## Ordered list
 1. Good morning
 2. Good afternoon
@@ -31,8 +31,16 @@ CSE 2nd year
 - Good Afternoon
 - Good Evening
 
-## Nexted List
+## Nested List
 1. Good morning
    1. tiffin
    2. Tea
    3. milk
+  
+# Python Code
+``` python
+ a=10
+ b=20
+ c=30
+ print(a,b,c)
+```
