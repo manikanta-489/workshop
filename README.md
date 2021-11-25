@@ -30,4 +30,3 @@ CSE 2nd year
 - Good morning
 - Good Afternoon
 - Good Evening
-#or
